@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/github/watchers/NH-Shohan/NH.Shohan?color=%2300f&label=Portfolio%20&logo=Google%20Chrome&logoColor=%2300f&style=for-the-badge)](https://nh-shohan.github.io/NH.Shohan/)
 </br>
+</br>
 [![Twitter Follow](https://img.shields.io/github/watchers/NH-Shohan/NH.Shohan?color=%23f00&label=Resume&logo=adobe%20acrobat%20reader&logoColor=%23ff0000&style=for-the-badge)](https://drive.google.com/file/d/1mg8Pb7_I6wN1bXZIdnanwBlKUys1uTu9/view?usp=sharing)
 
 ## I'm a Student, Web Developer, and Student!!!
@@ -18,7 +19,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Shohan" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
