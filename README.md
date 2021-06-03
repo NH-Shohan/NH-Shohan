@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/github/watchers/NH-Shohan/NH-Shohan?color=%2300f&label=Portfolio&logo=Google%20Chrome&logoColor=%2300f&style=for-the-badge)](https://nh-shohan.netlify.app/)
 </br>
 </br>
-[![Resume](https://img.shields.io/github/watchers/NH-Shohan/NH-Shohan?color=%23f00&label=Resume&logo=Adobe%20Acrobat%20Reader&logoColor=%23f00&style=for-the-badge)](https://drive.google.com/file/d/1mg8Pb7_I6wN1bXZIdnanwBlKUys1uTu9/view?usp=sharing)
+[![Resume](https://img.shields.io/github/watchers/NH-Shohan/NH-Shohan?color=%23f00&label=Resume&logo=Adobe%20Acrobat%20Reader&logoColor=%23f00&style=for-the-badge)](https://drive.google.com/file/d/1q5o48sk0OJg9ozq96b0K8iNjlI8OD1YF/view?usp=sharing)
 
 ## I'm a Student, Web Developer, and Student!!!
 
