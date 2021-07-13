@@ -52,6 +52,6 @@
 <br />
 <hr/>
 
-[website]: https://nh-shohan.github.io/NH.Shohan/
+[website]: https://nh-shohan.netlify.app/
 [linkedin]: https://www.linkedin.com/in/nahim-hossain-shohan-4221131bb/
 [instagram]: https://www.instagram.com/nahim.hossain.shohan/
