@@ -9,7 +9,7 @@
 ![Profile views](https://gpvc.arturio.dev/NH-Shohan) 
 
 
-## I'm a Student, Web Developer, and Student!!!
+## I'm a Student, Web Developer, and Programmer!!!
 - 😇I'm currently looking forword to join a team!
 - 😍I’m currently learning new programming languages!
 - 🧐I’m looking to collaborate with a team to get more knowledge!
