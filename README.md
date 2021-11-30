@@ -1,4 +1,4 @@
-![I'm a Student, Web Developer, and Programmer!!!](https://github.com/NH-Shohan/NH-Shohan/blob/73fdc67fb19fca10b7eee6c6e47c3591fa3fd1fd/2.png)
+![I'm a Student, Web Developer, and Programmer!!!](https://github.com/NH-Shohan/NH-Shohan/blob/main/2.png)
 
 ### Hi there 👋, I'm Nahim Hossain Shohan😃
 
