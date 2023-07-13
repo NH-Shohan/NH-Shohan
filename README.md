@@ -1,10 +1,10 @@
 ![Shohan](https://github.com/NH-Shohan/NH-Shohan/blob/main/Nahim%20Hossain%20Shohan.gif)
 
-<a href="https://nh-shohan.web.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=300&color=FFFFFF&center=true&vCenter=true&width=1100&lines=💡Nahim+Hossain+Shohan💡" alt="Typing SVG" /></a>
+<a href="https://nh-shohan.web.app/"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=300&color=FFFFFF&center=true&vCenter=true&width=1100&lines=💡Nahim+Hossain+Shohan💡" alt="Typing SVG" /></a>
 
 **`BE THE BEST VERSION OF YOURSELF`**
 
-## I'm a Web Developer, and Programmer!!!
+## I'm a Web Developer and Programmer!!!
 
 - 😇 I'm currently working as a web developer!
 - 😍 Also, I’m currently learning new programming languages!
@@ -24,23 +24,31 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://fb.com/nahim.hossain.shohan.3" style="fo" target="_blank">
+  <a href="https://fb.com/nahim.hossain.shohan.3" style="fo">
     <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1977f3?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   
-  <a href="https://linkedin.com/in/nahim-hossain-shohan" style="fo" target="_blank">
-    <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/nahim-hossain-shohan" style="fo">
+    <img alt="Linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   
-  <a href="https://instagram.com/nahim.hossain.shohan" style="fo" target="_blank">
-    <img alt="instagram" title="instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-bd04e2?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/nahim.hossain.shohan" style="fo">
+    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-bd04e2?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
-  <a href="https://dev.to/nh-shohan" style="fo" target="_blank">
+  <a href="https://dev.to/nh-shohan" style="fo">
     <img alt="dev" title="dev" src="https://custom-icon-badges.demolab.com/badge/-dev.to-555?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
   
-  <a href="https://codepen.io/nh-shohan" style="fo" target="blank">
+  <a href="https://codepen.io/nh-shohan" style="fo">
     <img alt="codepen" title="codepen" src="https://custom-icon-badges.demolab.com/badge/-codepen-000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+  
+  <a href="https://drive.google.com/file/d/180RI6F--NYozXO8k_Jwk2OOQ0R7wytR7/view?pli=1" style="fo">
+    <img alt="resume" title="resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  
+  <a href="https://drive.google.com/file/d/180RI6F--NYozXO8k_Jwk2OOQ0R7wytR7/view?pli=1" style="fo">
+    <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-Curriculum Vitae-FF8800?style=for-the-badge&logo=microsoftacademic&logoColor=white"/>
   </a>
 </p>
 <hr/>
