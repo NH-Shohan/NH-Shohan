@@ -47,7 +47,7 @@
     <img alt="resume" title="resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   
-  <a href="https://drive.google.com/file/d/180RI6F--NYozXO8k_Jwk2OOQ0R7wytR7/view?pli=1" style="fo">
+  <a href="https://drive.google.com/drive/u/2/my-drive" style="fo">
     <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-Curriculum Vitae-FF8800?style=for-the-badge&logo=microsoftacademic&logoColor=white"/>
   </a>
 </p>
