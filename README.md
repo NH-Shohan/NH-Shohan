@@ -1,69 +1,93 @@
-![I'm a Student, Web Developer, and Programmer!!!](https://github.com/NH-Shohan/NH-Shohan/blob/main/Shohan.png)
+![Shohan](https://github.com/NH-Shohan/NH-Shohan/blob/main/Nahim%20Hossain%20Shohan.gif)
 
-### Hi there 👋, I'm Nahim Hossain Shohan😃
+<a href="https://nh-shohan.web.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=300&color=FFFFFF&center=true&vCenter=true&width=1100&lines=💡Nahim+Hossain+Shohan💡" alt="Typing SVG" /></a>
 
-[![Website](https://img.shields.io/github/watchers/NH-Shohan/NH-Shohan?color=%2300f&label=Portfolio&logo=Google%20Chrome&logoColor=%2300f&style=flat)](https://nh-shohan.netlify.app/)
-&nbsp;&nbsp;&nbsp;
-[![Resume](https://img.shields.io/github/watchers/NH-Shohan/NH-Shohan?color=%23f00&label=Resume&logo=Adobe%20Acrobat%20Reader&logoColor=%23f00&style=flat)](https://drive.google.com/file/d/1q5o48sk0OJg9ozq96b0K8iNjlI8OD1YF/view?usp=sharing)
-&nbsp;&nbsp;&nbsp;
-![Profile views](https://gpvc.arturio.dev/NH-Shohan) 
+**`BE THE BEST VERSION OF YOURSELF`**
 
+## I'm a Web Developer, and Programmer!!!
 
-## I'm a Student, Web Developer, and Programmer!!!
-- 😇I'm currently looking forword to join a team!
-- 😍I’m currently learning new programming languages!
-- 🧐I’m looking to collaborate with a team to get more knowledge!
-- 👨‍💻2021 Goals: Contribute more to my projects!
-- 🎶Fun fact: I love to draw and singing songs!
-- 📚Education: Studying in Computer Science and Engineering at American International University-Bangladesh
+- 😇 I'm currently working as a web developer!
+- 😍 Also, I’m currently learning new programming languages!
+- 🧐 Moreover, I’m looking to collaborate with a team to get more knowledge!
+- 👨‍💻 2023 Goals: Contribute more to my projects!
+- 🎶 Fun fact: I love to draw and travele!
+- 📚 Education: Studying in Computer Science and Engineering at American International University-Bangladesh
 
+---
+
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=nh-shohan&theme=onedark&rank=S,AAA,AA,A,B,C&column=-1&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="nh-shohan" />
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://fb.com/nahim.hossain.shohan.3" style="fo" target="_blank">
+    <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1977f3?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/nahim-hossain-shohan" style="fo" target="_blank">
+    <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  
+  <a href="https://instagram.com/nahim.hossain.shohan" style="fo" target="_blank">
+    <img alt="instagram" title="instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-bd04e2?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://dev.to/nh-shohan" style="fo" target="_blank">
+    <img alt="dev" title="dev" src="https://custom-icon-badges.demolab.com/badge/-dev.to-555?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  
+  <a href="https://codepen.io/nh-shohan" style="fo" target="blank">
+    <img alt="codepen" title="codepen" src="https://custom-icon-badges.demolab.com/badge/-codepen-000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+</p>
 <hr/>
 
-### Connect with me:
+### Languages and Tools
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://nh-shohan.netlify.app/)&emsp; 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/NH-Shohan)&emsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nahim-hossain-shohan-4221131bb//)&emsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/nahim.hossain.shohan.3/)&emsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/nahim.hossain.shohan//)&emsp; 
-
-<hr/>
-
-### GitHub Status:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NH-Shohan&show_icons=true&theme=dark)
-<br/>
-<hr/>
-
-### Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Shohan&layout=compact&theme=dark)](https://github.com/NH-Shohan)
-
-<hr/>
-
-### Tools:
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
-
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
-
-[<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://www.w3schools.com/sass/)
-
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3schools.com/js/)
-
-[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://www.w3schools.com/react/)
-
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-
-[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.w3schools.com/sql/)
-
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.w3schools.com/php/php_mysql_intro.asp)
-
-[<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/83342210/120072229-94524d00-c0b4-11eb-9e07-1420e2e8ffe4.png" />](https://github.com/)
-
+<img align="left" alt="Java" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
 <br />
-<br />
+
+#### 📑 GitHub Status:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NH-Shohan&show_icons=true&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false)
+
+#### 📚 Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Shohan&layout=compact&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false)](https://github.com/NH-Shohan)
+
 <hr/>
 
-[website]: https://nh-shohan.netlify.app/
-[linkedin]: https://www.linkedin.com/in/nahim-hossain-shohan-4221131bb/
-[instagram]: https://www.instagram.com/nahim.hossain.shohan/
+###
+
+<details>
+ <summary><h3>👨‍💻 Shohan's Coding Journey</h3></summary>
+  My coding journey began as a curious computer science student, eager to explore the vast world of programming. I immersed myself in learning everything from code and Unix to Linux and theory. Along the way, I discovered my passion for web development, and it became the primary focus of my studies and projects.
+
+I delved into the realm of web technologies, mastering languages like HTML, CSS, and JavaScript. I honed my skills in front-end development, creating visually appealing and interactive user interfaces. As I progressed, I delved deeper into back-end development, mastering frameworks and technologies like Node.js, Express, and databases.
+
+The more I learned about web development, the more captivated I became. I realized that building websites and web applications allowed me to bring my creative ideas to life and solve real-world problems. I found joy in crafting elegant and functional websites that delivered seamless user experiences.
+
+To enhance my expertise, I constantly challenge myself to stay updated with the latest web development trends and technologies. I explore new frameworks, libraries, and tools, always striving to improve my skills and expand my knowledge.
+
+As a web developer, my goal is to create user-centric, visually appealing, and performant websites that leave a lasting impression. I enjoy collaborating with teams to bring ideas to fruition and contribute to meaningful projects.
+
+With my focus firmly on web development, I am excited about the opportunities and possibilities this field holds. I am eager to continue growing as a web developer, taking on new challenges, and building remarkable digital experiences.
+
+So, join me on this exciting journey as I leverage my skills and passion for web development to create impactful and innovative web solutions. Together, let's push the boundaries of what's possible on the web!
+
+</details>
