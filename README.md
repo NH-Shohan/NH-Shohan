@@ -2,7 +2,7 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83342210/293340710-4995829a-58f4-4dc6-beeb-6e1c7a16befa.svg" alt="shohan">
 </p>
 
-<a href="https://nh-shohan.web.app/"><img src="https://readme-typing-svg.demolab.com?font=Raleway&size=36&duration=5000&pause=750&color=3aad52&center=true&vCenter=true&repeat=false&width=1200&lines=Nahim+Hossain+Shohan" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=36&pause=500&color=3AAD52&center=true&vCenter=true&random=false&width=1200&lines=Nahim+Hossain+Shohan;Web+Developer;Software+Developer;UI%2FUX+Designer)](https://nh-shohan.web.app/)
 
 **`BE THE BEST VERSION OF YOURSELF`**
 
@@ -73,9 +73,26 @@
 
 ---
 
-| 📑 GitHub Status | 📚 Languages |
-| ---------------- | ---------------- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NH-Shohan&show_icons=true&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Shohan&layout=compact&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false)](https://github.com/NH-Shohan) |
+<div align="center">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>GitHub Status</th>
+        <th>Languages</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=NH-Shohan&show_icons=true&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false" alt="GitHub Stats">
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Shohan&layout=compact&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false" alt="Top Langs">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <hr/>
 
