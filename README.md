@@ -1,6 +1,8 @@
-[![Shohan](https://github.com/NH-Shohan/NH-Shohan/blob/main/Nahim%20Hossain%20Shohan.gif)](https://nh-shohan.web.app)
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83342210/293340710-4995829a-58f4-4dc6-beeb-6e1c7a16befa.svg" alt="shohan">
+</p>
 
-<a href="https://nh-shohan.web.app/"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=300&color=FFFFFF&center=true&vCenter=true&width=1100&lines=💡Nahim+Hossain+Shohan💡" alt="Typing SVG" /></a>
+<a href="https://nh-shohan.web.app/"><img src="https://readme-typing-svg.demolab.com?font=Raleway&size=36&duration=5000&pause=750&color=3aad52&center=true&vCenter=true&repeat=false&width=1200&lines=Nahim+Hossain+Shohan" alt="Typing SVG" /></a>
 
 **`BE THE BEST VERSION OF YOURSELF`**
 
@@ -68,15 +70,12 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-<br />
 
-#### 📑 GitHub Status:
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NH-Shohan&show_icons=true&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false)
-
-#### 📚 Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Shohan&layout=compact&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false)](https://github.com/NH-Shohan)
+| 📑 GitHub Status | 📚 Languages |
+| ---------------- | ---------------- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NH-Shohan&show_icons=true&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Shohan&layout=compact&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&include_all_commits=true&line_height=22&text_bold=false)](https://github.com/NH-Shohan) |
 
 <hr/>
 
