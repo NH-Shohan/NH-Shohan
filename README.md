@@ -2,7 +2,7 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83342210/293340710-4995829a-58f4-4dc6-beeb-6e1c7a16befa.svg" alt="shohan">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=4000&weight=300&size=36&pause=100&color=3AAD52&center=true&vCenter=true&random=false&width=1200&lines=Nahim+Hossain+Shohan;Web+Developer;Software+Developer;UI%2FUX+Designer)](https://nh-shohan.web.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=4000&weight=700&size=36&pause=100&color=3AAD52&center=true&vCenter=true&random=false&width=1200&lines=Nahim+Hossain+Shohan;Web+Developer;Software+Developer;UI%2FUX+Designer)](https://nh-shohan.web.app/)
 
 **`BE THE BEST VERSION OF YOURSELF`**
 
