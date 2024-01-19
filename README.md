@@ -10,10 +10,11 @@
 
 - 😇 I'm currently working as a web developer!
 - 😍 Also, I’m currently learning new programming languages!
+- 👽 I am creating my own $\text{\color{limegreen}npm(node \ package \ manager)}$. [See More](https://github.com/NH-Shohan/create-3np-stack)
 - 🧐 Moreover, I’m looking to collaborate with a team to get more knowledge!
-- 👨‍💻 2023 Goals: Contribute more to my projects!
+- 👨‍💻 2024 Goals: Contribute to open source projects! 
 - 🎶 Fun fact: I love to draw and travele!
-- 📚 Education: Studying in Computer Science and Engineering at American International University-Bangladesh
+- 📚 Education: Studying in Computer Science and Engineering at [AIUB](https://www.aiub.edu/)
 
 ---
 
