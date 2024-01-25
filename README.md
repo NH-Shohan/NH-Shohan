@@ -9,7 +9,7 @@
 ## I'm a Web Developer and Programmer!!!
 
 - 😇 I'm currently working as a web developer!
-- 😍 Also, I’m currently learning new programming languages!
+- 😍 Also, try my personal build VS-Code Theme Extension [Shohan Theme](https://marketplace.visualstudio.com/items?itemName=NahimHossainShohan.shohantheme)!
 - 👽 I am creating my own $\text{\color{limegreen}npm(node \ package \ manager)}$. [See More](https://github.com/NH-Shohan/create-3np-stack)
 - 🧐 Moreover, I’m looking to collaborate with a team to get more knowledge!
 - 👨‍💻 2024 Goals: Contribute to open source projects! 
