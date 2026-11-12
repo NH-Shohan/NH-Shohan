@@ -1,7 +1,8 @@
-<picture>
+<a name="hero"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <a name="hero"><img alt="$ whoami: Nahim Hossain Shohan, Full-Stack and AI Engineer, UI/UX Designer, Dhaka, Bangladesh." src="./assets/hero-light.svg" width="100%"></a>
-</picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="$ whoami: Nahim Hossain Shohan, Full-Stack and AI Engineer, UI/UX Designer, Dhaka, Bangladesh." src="./assets/hero-light.svg" width="100%">
+</picture></a>
 
 <p align="center">
   <a href="https://nh-shohan.web.app/"><code>website</code></a> ·
@@ -13,7 +14,11 @@
   <a href="https://fb.com/nahim.hossain.shohan.3"><code>facebook</code></a>
 </p>
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-about-dark.svg"><a name="heading-about"><img alt="$ cat about.ts" src="./assets/heading-about-light.svg" height="58"></a></picture></h3>
+<h3><a name="heading-about"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-about-light.svg">
+  <img alt="$ cat about.ts" src="./assets/heading-about-light.svg" height="58">
+</picture></a></h3>
 
 ```ts
 const shohan = {
@@ -39,7 +44,11 @@ const shohan = {
 }
 ```
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-experience-dark.svg"><a name="heading-experience"><img alt="$ cat experience.log" src="./assets/heading-experience-light.svg" height="58"></a></picture></h3>
+<h3><a name="heading-experience"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-experience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-experience-light.svg">
+  <img alt="$ cat experience.log" src="./assets/heading-experience-light.svg" height="58">
+</picture></a></h3>
 
 ```text
 2025 - now    Software Engineer    Genesys Software
@@ -47,14 +56,23 @@ const shohan = {
 2023          Web Developer        Texium Solutions, USA (remote)
 ```
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-tools-dark.svg"><a name="heading-tools"><img alt="$ ls ./tools" src="./assets/heading-tools-light.svg" height="58"></a></picture></h3>
+<h3><a name="heading-tools"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-tools-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-tools-light.svg">
+  <img alt="$ ls ./tools" src="./assets/heading-tools-light.svg" height="58">
+</picture></a></h3>
 
-<picture>
+<a name="stack"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <a name="stack"><img alt="Web and mobile: React, TypeScript, Next.js, Vue, Nuxt, Tailwind, Expo, Flutter. Backend and data: Node.js, NestJS, PostgreSQL, MongoDB, Redis, Supabase, Docker. AI and ML: Python, PyTorch, Hugging Face, Optuna, LangChain, Gemini, Anthropic, OpenAI. Design and shipping: Figma, shadcn/ui, Git, GitHub Actions, Vercel, Cloudflare." src="./assets/stack-light.svg" width="100%"></a>
-</picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img alt="Web and mobile: React, TypeScript, Next.js, Vue, Nuxt, Tailwind, Expo, Flutter. Backend and data: Node.js, NestJS, PostgreSQL, MongoDB, Redis, Supabase, Docker. AI and ML: Python, PyTorch, Hugging Face, Optuna, LangChain, Gemini, Anthropic, OpenAI. Design and shipping: Figma, shadcn/ui, Git, GitHub Actions, Vercel, Cloudflare." src="./assets/stack-light.svg" width="100%">
+</picture></a>
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-work-dark.svg"><a name="heading-work"><img alt="$ ls ./work" src="./assets/heading-work-light.svg" height="58"></a></picture></h3>
+<h3><a name="heading-work"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-work-light.svg">
+  <img alt="$ ls ./work" src="./assets/heading-work-light.svg" height="58">
+</picture></a></h3>
 
 <table>
 <tr>
@@ -123,21 +141,31 @@ A high-contrast VS Code theme in Dark, Light and Ocean.<br>
 </tr>
 </table>
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-research-dark.svg"><a name="heading-research"><img alt="$ cat research.md" src="./assets/heading-research-light.svg" height="58"></a></picture></h3>
+<h3><a name="heading-research"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-research-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-research-light.svg">
+  <img alt="$ cat research.md" src="./assets/heading-research-light.svg" height="58">
+</picture></a></h3>
 
-<picture>
+<a name="research"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/research-dark.svg">
-  <a name="research"><img alt="Advancing NLP Tasks Through Fine-tuning of Foundation Language Models, 2024. GPT-2 Medium fine-tuned on IMDB movie reviews with few labelled examples, adaptive few-shot prompts and an Optuna hyperparameter search, reaching 86.7% accuracy." src="./assets/research-light.svg" width="100%"></a>
-</picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/research-light.svg">
+  <img alt="Advancing NLP Tasks Through Fine-tuning of Foundation Language Models, 2024. GPT-2 Medium fine-tuned on IMDB movie reviews with few labelled examples, adaptive few-shot prompts and an Optuna hyperparameter search, reaching 86.7% accuracy." src="./assets/research-light.svg" width="100%">
+</picture></a>
 
 <sub>Joint research with [Md. Jidanul Hakim Jitu](https://github.com/JH-Jitu), 2024.</sub>
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-journey-dark.svg"><a name="heading-journey"><img alt="$ git log --since=2021" src="./assets/heading-journey-light.svg" height="58"></a></picture></h3>
+<h3><a name="heading-journey"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-journey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-journey-light.svg">
+  <img alt="$ git log --since=2021" src="./assets/heading-journey-light.svg" height="58">
+</picture></a></h3>
 
-<picture>
+<a name="journey"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
-  <a name="journey"><img alt="A timeline drawn as one green line, 2021 to 2026. Every public repo from the early years hangs from it, and the main projects hang longest, ending with Matra at HEAD." src="./assets/journey-light.svg" width="100%"></a>
-</picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/journey-light.svg">
+  <img alt="A timeline drawn as one green line, 2021 to 2026. Every public repo from the early years hangs from it, and the main projects hang longest, ending with Matra at HEAD." src="./assets/journey-light.svg" width="100%">
+</picture></a>
 
 <details>
 <summary><code>the same, as text</code></summary>
@@ -157,12 +185,17 @@ A high-contrast VS Code theme in Dark, Light and Ocean.<br>
 
 </details>
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-activity-dark.svg"><a name="heading-activity"><img alt="$ watch -n 86400 git-activity" src="./assets/heading-activity-light.svg" height="58"></a></picture></h3>
+<h3><a name="heading-activity"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-activity-light.svg">
+  <img alt="$ watch -n 86400 git-activity" src="./assets/heading-activity-light.svg" height="58">
+</picture></a></h3>
 
-<picture>
+<a name="activity"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
-  <a name="activity"><img alt="Contributions in each of the last 12 months, one bar a month, redrawn every day." src="./assets/activity-light.svg" width="100%"></a>
-</picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg">
+  <img alt="Contributions in each of the last 12 months, one bar a month, redrawn every day." src="./assets/activity-light.svg" width="100%">
+</picture></a>
 
 ```
 $ git status
@@ -173,7 +206,11 @@ Changes not staged for commit:
 $ git commit -m "be the best version of yourself"
 ```
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-badges-dark.svg"><a name="heading-badges"><img alt="$ ls ./badges" src="./assets/heading-badges-light.svg" height="58"></a></picture></h3>
+<h3><a name="heading-badges"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-badges-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-badges-light.svg">
+  <img alt="$ ls ./badges" src="./assets/heading-badges-light.svg" height="58">
+</picture></a></h3>
 
 <p align="center">
   <a href="https://mcprush.com/to/matra-mcp?ref=badge"><img src="https://mcprush.com/badge/matra-mcp/card.svg" alt="Matra MCP server on mcprush" width="380"></a>
