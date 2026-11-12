@@ -52,11 +52,11 @@ const shohan = {
   <img alt="$ cat experience.log" src="./assets/heading-experience-light.svg" height="58">
 </picture></a></h3>
 
-```text
-2025 - now    Software Engineer    Genesys Software
-2023 - 2024   Frontend Developer   Icebreakers
-2023          Web Developer        Texium Solutions, USA (remote)
-```
+<pre>
+2025 - now    Software Engineer    <a href="https://www.genesysoftwares.com/">Genesys Software</a>
+2023 - 2024   Frontend Developer   <a href="https://icebreakers.tech/">Icebreakers</a>
+2023          Web Developer        <a href="https://texiumsolutions.com/">Texium Solutions</a>, USA (remote)
+</pre>
 
 <h3><a name="heading-tools"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-tools-dark.svg">
