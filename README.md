@@ -26,7 +26,7 @@
 const shohan = {
   role: 'Full-Stack & AI Engineer, UI/UX Designer',
   location: 'Dhaka, Bangladesh',
-  experience: '3+ years building production SaaS',
+  experience: '4+ years building production SaaS',
   focus: 'LLM features that survive real users, and the guard rails around them',
   approach: 'own the product end to end: interface, API, data model, deploy',
   education: {
