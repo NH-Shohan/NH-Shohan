@@ -1,8 +1,10 @@
+<p>
 <a name="hero"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
   <img alt="$ whoami: Nahim Hossain Shohan, Full-Stack and AI Engineer, UI/UX Designer, Dhaka, Bangladesh." src="./assets/hero-light.svg" width="100%">
 </picture></a>
+</p>
 
 <p align="center">
   <a href="https://nh-shohan.web.app/"><code>website</code></a> ·
@@ -62,11 +64,13 @@ const shohan = {
   <img alt="$ ls ./tools" src="./assets/heading-tools-light.svg" height="58">
 </picture></a></h3>
 
+<p>
 <a name="stack"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
   <img alt="Web and mobile: React, TypeScript, Next.js, Vue, Nuxt, Tailwind, Expo, Flutter. Backend and data: Node.js, NestJS, PostgreSQL, MongoDB, Redis, Supabase, Docker. AI and ML: Python, PyTorch, Hugging Face, Optuna, LangChain, Gemini, Anthropic, OpenAI. Design and shipping: Figma, shadcn/ui, Git, GitHub Actions, Vercel, Cloudflare." src="./assets/stack-light.svg" width="100%">
 </picture></a>
+</p>
 
 <h3><a name="heading-work"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-work-dark.svg">
@@ -147,11 +151,13 @@ A high-contrast VS Code theme in Dark, Light and Ocean.<br>
   <img alt="$ cat research.md" src="./assets/heading-research-light.svg" height="58">
 </picture></a></h3>
 
+<p>
 <a name="research"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/research-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/research-light.svg">
   <img alt="Advancing NLP Tasks Through Fine-tuning of Foundation Language Models, 2024. GPT-2 Medium fine-tuned on IMDB movie reviews with few labelled examples, adaptive few-shot prompts and an Optuna hyperparameter search, reaching 86.7% accuracy." src="./assets/research-light.svg" width="100%">
 </picture></a>
+</p>
 
 <sub>Joint research with [Md. Jidanul Hakim Jitu](https://github.com/JH-Jitu), 2024.</sub>
 
@@ -161,11 +167,13 @@ A high-contrast VS Code theme in Dark, Light and Ocean.<br>
   <img alt="$ git log --since=2021" src="./assets/heading-journey-light.svg" height="58">
 </picture></a></h3>
 
+<p>
 <a name="journey"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/journey-light.svg">
   <img alt="A timeline drawn as one green line, 2021 to 2026. Every public repo from the early years hangs from it, and the main projects hang longest, ending with Matra at HEAD." src="./assets/journey-light.svg" width="100%">
 </picture></a>
+</p>
 
 <details>
 <summary><code>the same, as text</code></summary>
@@ -191,11 +199,13 @@ A high-contrast VS Code theme in Dark, Light and Ocean.<br>
   <img alt="$ watch -n 86400 git-activity" src="./assets/heading-activity-light.svg" height="58">
 </picture></a></h3>
 
+<p>
 <a name="activity"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg">
   <img alt="Contributions in each of the last 12 months, one bar a month, redrawn every day." src="./assets/activity-light.svg" width="100%">
 </picture></a>
+</p>
 
 ```
 $ git status
