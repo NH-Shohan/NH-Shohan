@@ -1,0 +1,37 @@
+name: Activity
+
+# Redraws the README's live images once a day: the activity chart from the contribution calendar, and the package
+# cards from npm and the VS Code Marketplace.
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: scripts/package-lock.json
+      - run: npm ci --prefix scripts
+      - run: node scripts/build.mjs live
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Commit the images if they changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity-*.svg assets/card-*.svg
+          if git diff --cached --quiet; then echo 'No change'; exit 0; fi
+          git commit -m 'Redraw the live images'
+          git push

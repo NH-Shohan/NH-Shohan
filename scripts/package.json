@@ -1,0 +1,14 @@
+{
+  "name": "nh-shohan-profile-images",
+  "private": true,
+  "type": "module",
+  "description": "Draws the SVGs in the profile README.",
+  "scripts": {
+    "build": "node build.mjs",
+    "activity": "node build.mjs activity"
+  },
+  "dependencies": {
+    "harfbuzzjs": "0.4.15",
+    "simple-icons": "15.22.0"
+  }
+}

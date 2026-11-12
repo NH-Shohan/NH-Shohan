@@ -1,153 +1,199 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <a name="hero"><img alt="$ whoami: Nahim Hossain Shohan, Full-Stack and AI Engineer, UI/UX Designer, Dhaka, Bangladesh." src="./assets/hero-light.svg" width="100%"></a>
+</picture>
+
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83342210/293340710-4995829a-58f4-4dc6-beeb-6e1c7a16befa.svg" alt="shohan">
+  <a href="https://nh-shohan.web.app/"><code>website</code></a> ·
+  <a href="https://linkedin.com/in/nahim-hossain-shohan"><code>linkedin</code></a> ·
+  <a href="mailto:nahim.hossain.shohan@gmail.com"><code>email</code></a> ·
+  <a href="https://dev.to/nh-shohan"><code>dev.to</code></a> ·
+  <a href="https://codepen.io/nh-shohan"><code>codepen</code></a> ·
+  <a href="https://instagram.com/nahim.hossain.shohan"><code>instagram</code></a> ·
+  <a href="https://fb.com/nahim.hossain.shohan.3"><code>facebook</code></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=4000&weight=700&size=36&pause=100&color=3AAD52&center=true&vCenter=true&random=false&width=1000&lines=Nahim+Hossain+Shohan;Software+Developer;Web+Developer;UI%2FUX+Designer)](https://nh-shohan.web.app/)
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-about-dark.svg"><a name="heading-about"><img alt="$ cat about.ts" src="./assets/heading-about-light.svg" height="58"></a></picture></h3>
 
-<p align="center"><b><code>BE THE BEST VERSION OF YOURSELF</code></b></p>
+```ts
+const shohan = {
+  role: 'Full-Stack & AI Engineer, UI/UX Designer',
+  location: 'Dhaka, Bangladesh',
+  experience: '3+ years building production SaaS',
+  focus: 'LLM features that survive real users, and the guard rails around them',
+  approach: 'own the product end to end: interface, API, data model, deploy',
+  education: {
+    degree: 'BSc in Computer Science and Engineering',
+    university: 'American International University-Bangladesh',
+    cgpa: '3.85 / 4.00',
+    graduated: 2024,
+    honors: [
+      'Magna Cum Laude, for academic excellence',
+      "Dean's List, every regular semester",
+      'Academic Scholarship for Excellence',
+    ],
+  },
+  speaks: ['Bangla', 'English', 'Hindi'],
+  offline: ['drawing', 'travelling'],
+  contact: 'nahim.hossain.shohan@gmail.com',
+}
+```
 
-## Hi, I'm Shohan
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-experience-dark.svg"><a name="heading-experience"><img alt="$ cat experience.log" src="./assets/heading-experience-light.svg" height="58"></a></picture></h3>
 
-Software developer from Dhaka, building web products and the tools behind them.
+```text
+2025 - now    Software Engineer    Genesys Software
+2023 - 2024   Frontend Developer   Icebreakers
+2023          Web Developer        Texium Solutions, USA (remote)
+```
 
-- 🛠️ Building [**Matra**](https://matrajs.com), a headless rich text editor framework with zero runtime dependencies
-- 🩸 Working on [**Rooktoo**](https://www.rooktoo.com), a blood donation platform connecting donors and patients
-- 🎨 Made [**Shohan Theme**](https://marketplace.visualstudio.com/items?itemName=NahimHossainShohan.shohantheme), a VS Code theme, and [**create-3np-stack**](https://github.com/NH-Shohan/create-3np-stack), an npm scaffold for full-stack projects
-- 📚 Computer Science and Engineering at [AIUB](https://www.aiub.edu/)
-- 🎶 Outside of code: drawing and travelling
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-tools-dark.svg"><a name="heading-tools"><img alt="$ ls ./tools" src="./assets/heading-tools-light.svg" height="58"></a></picture></h3>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <a name="stack"><img alt="Web and mobile: React, TypeScript, Next.js, Vue, Nuxt, Tailwind, Expo, Flutter. Backend and data: Node.js, NestJS, PostgreSQL, MongoDB, Redis, Supabase, Docker. AI and ML: Python, PyTorch, Hugging Face, Optuna, LangChain, Gemini, Anthropic, OpenAI. Design and shipping: Figma, shadcn/ui, Git, GitHub Actions, Vercel, Cloudflare." src="./assets/stack-light.svg" width="100%"></a>
+</picture>
 
-### Matra
-
-[![npm](https://img.shields.io/npm/v/@matrajs/core?label=%40matrajs%2Fcore)](https://www.npmjs.com/package/@matrajs/core)
-[![Licence](https://img.shields.io/npm/l/@matrajs/core?label=licence)](https://github.com/amrelaco/matra#licence)
-[![GitHub](https://img.shields.io/badge/github-amrelaco%2Fmatra-181717?logo=github)](https://github.com/amrelaco/matra)
-
-A headless rich text editor framework. The document is plain JSON, commands are
-typed from the extensions you pass, and nothing from the engine leaks into your
-code. Bindings for React, Vue, Svelte and Solid, 79 extensions in the box, and
-a 31 kB starter kit.
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-work-dark.svg"><a name="heading-work"><img alt="$ ls ./work" src="./assets/heading-work-light.svg" height="58"></a></picture></h3>
 
 <table>
-  <tr>
-    <td width="400" valign="top">
-      <a href="https://mcprush.com/to/matra-mcp?ref=badge">
-        <img src="https://mcprush.com/badge/matra-mcp/card.svg" alt="Matra MCP server on mcprush" width="380">
-      </a>
-    </td>
-    <td valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**The docs are an MCP server too.** Add it once and Claude, Cursor or Codex
-answer from the Matra documentation instead of guessing.
-
-```sh
-claude mcp add matra -- npx -y @matrajs/mcp
-```
-
-Zero dependencies, nothing fetched at runtime, three tools: `list_docs`,
-`read_doc` and `search_docs`.
-
-[matrajs.com/docs/mcp](https://matrajs.com/docs/mcp)
+**[Rooktoo](https://rooktoo.vercel.app)** &nbsp;<sub>AI, web and mobile</sub><br>
+A blood donation platform with an AI assistant on Gemini function calling: 9 tools, streamed replies, and access kept to least privilege behind auth and rate limits.<br>
+<sub>`TanStack Start` `Convex` `Gemini` `WorkOS` `Expo`</sub>
 
 </td>
-  </tr>
+<td width="50%" valign="top">
+
+**[DoctorProjukti](https://doctor-projukti.vercel.app)** &nbsp;<sub>full-stack</sub><br>
+A healthcare platform that connects patients, hospitals and pharmacies.<br>
+<sub>`Next.js` `NestJS` `Prisma` `PostgreSQL`</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[TaskGrid](https://taskgrid.io)** &nbsp;<sub>at Genesys Software</sub><br>
+A project management SaaS: boards, sprints, chat and a document editor, kept in sync in real time on the web and on phones.<br>
+<sub>`Nuxt 3` `Vue 3` `Socket.io` `React Native` `MongoDB`</sub>
+
+</td>
+<td valign="top">
+
+**[Pengine](https://pengine.io)** &nbsp;<sub>at Genesys Software</sub><br>
+A print-on-demand storefront in Nuxt 4, with faceted search, payments and a design system built from Figma tokens.<br>
+<sub>`Nuxt 4` `Vue 3` `Typesense` `Stripe` `Tailwind`</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[Matra](https://matrajs.com)** &nbsp;<sub>open source library</sub><br>
+A headless rich text editor framework with React, Vue, Svelte and Solid bindings and zero runtime dependencies.<br>
+<sub>`TypeScript` `npm`</sub>
+
+</td>
+<td valign="top">
+
+**[notionuxt](https://notionuxt.vercel.app)** &nbsp;<sub>open source library</sub><br>
+A drop-in Notion-style editor for Vue 3 on npm, with real-time collaboration and KaTeX math.<br>
+<sub>`Vue 3` `Nuxt` `Y.js` `KaTeX`</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[create-3np-stack](https://github.com/NH-Shohan/create-3np-stack)** &nbsp;<sub>CLI</sub><br>
+A scaffolding CLI that sets up Next.js and NestJS with API routes and the database connection ready.<br>
+<sub>`Node.js` `npm`</sub>
+
+</td>
+<td valign="top">
+
+**[Shohan Theme](https://marketplace.visualstudio.com/items?itemName=NahimHossainShohan.shohantheme)** &nbsp;<sub>design</sub><br>
+A high-contrast VS Code theme in Dark, Light and Ocean.<br>
+<sub>`VS Code`</sub>
+
+</td>
+</tr>
 </table>
 
----
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-research-dark.svg"><a name="heading-research"><img alt="$ cat research.md" src="./assets/heading-research-light.svg" height="58"></a></picture></h3>
 
-<h3 align="left">Connect with me</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/research-dark.svg">
+  <a name="research"><img alt="Advancing NLP Tasks Through Fine-tuning of Foundation Language Models, 2024. GPT-2 Medium fine-tuned on IMDB movie reviews with few labelled examples, adaptive few-shot prompts and an Optuna hyperparameter search, reaching 86.7% accuracy." src="./assets/research-light.svg" width="100%"></a>
+</picture>
 
-<p align="left">
-  <a href="https://linkedin.com/in/nahim-hossain-shohan">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://nh-shohan.web.app/">
-    <img alt="Website" title="Website" src="https://custom-icon-badges.demolab.com/badge/-Website-3AAD52?style=for-the-badge&logo=globe&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/nh-shohan">
-    <img alt="dev.to" title="dev.to" src="https://custom-icon-badges.demolab.com/badge/-dev.to-555?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-  <a href="https://codepen.io/nh-shohan">
-    <img alt="CodePen" title="CodePen" src="https://custom-icon-badges.demolab.com/badge/-codepen-000?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
-  <a href="https://fb.com/nahim.hossain.shohan.3">
-    <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1977f3?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/nahim.hossain.shohan">
-    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-instagram-bd04e2?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/180RI6F--NYozXO8k_Jwk2OOQ0R7wytR7/view?pli=1">
-    <img alt="Resume" title="Resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1BinHBUl5oIoD8SkszHNn3qvYachQaiol/view?usp=sharing">
-    <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-Curriculum%20Vitae-FF8800?style=for-the-badge&logo=microsoftacademic&logoColor=white"/>
-  </a>
-</p>
+<sub>Joint research with [Md. Jidanul Hakim Jitu](https://github.com/JH-Jitu), 2024.</sub>
 
----
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-journey-dark.svg"><a name="heading-journey"><img alt="$ git log --since=2021" src="./assets/heading-journey-light.svg" height="58"></a></picture></h3>
 
-### Languages and tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
+  <a name="journey"><img alt="A timeline drawn as one green line, 2021 to 2026. Every public repo from the early years hangs from it, and the main projects hang longest, ending with Matra at HEAD." src="./assets/journey-light.svg" width="100%"></a>
+</picture>
 
-<p align="left">
-  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-  <img alt="Vue" title="Vue" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;
-  <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
-  <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
-  <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;
-  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
-  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />&nbsp;&nbsp;
-  <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
-  <img alt="C++" title="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />&nbsp;&nbsp;
-  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
-  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
-  <img alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
-  <img alt="Figma" title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</p>
+<details>
+<summary><code>the same, as text</code></summary>
 
----
-
-<div align="center">
-  <table width="100%">
-    <thead>
-      <tr>
-        <th>GitHub stats</th>
-        <th>Languages</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=NH-Shohan&show_icons=true&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&line_height=22&text_bold=false" alt="GitHub stats">
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NH-Shohan&layout=compact&theme=transparent&hide=issues&title_color=ffffff&text_color=999&icon_color=fff&border_color=fff&border_radius=10&rank_icon=github&line_height=22&text_bold=false" alt="Top languages">
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-### The journey so far
-
+```text
+2021      22 repos           learning the web
+2022-23   14 repos           Java, Oracle, Python
+2024      Shohan Theme       a VS Code theme
+2024      create-3np-stack   a full-stack app from one npx
+2025      TaskGrid           project management, in real time
+2025      notionuxt          a Notion-style editor for Vue
+2025      Pengine            a print-on-demand storefront
+2025      Rooktoo            blood donation, with an AI assistant
+2026      DoctorProjukti     a healthcare ecosystem
+2026      Matra              a rich text editor framework, from scratch   HEAD -> main
 ```
-$ git log --reverse --date=format:%Y --format='%ad  %s' -- shohan
 
-2021  Hello, World. Computer Science and Engineering at AIUB, and a GitHub account.
-2024  Shohan Theme ships to the VS Code marketplace. The editor should look like home.
-2024  create-3np-stack: one command instead of an afternoon of project setup.
-2024  Shohoje-Rokto, a site that finds blood donors. The problem turns out to be bigger than a site.
-2025  notionuxt, a Notion-style editor in Nuxt. Falls down the rabbit hole of how editors really work.
-2025  Rooktoo: the blood donor idea again, rebuilt as a platform with Next.js, NestJS and Supabase.
-2026  medha.space and DoctorProjukti: multi-tenant SaaS for schools, and a healthcare ecosystem.
-2026  Matra: a rich text editor framework written from scratch, zero runtime dependencies. HEAD -> main
-```
+</details>
+
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-activity-dark.svg"><a name="heading-activity"><img alt="$ watch -n 86400 git-activity" src="./assets/heading-activity-light.svg" height="58"></a></picture></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <a name="activity"><img alt="Contributions in each of the last 12 months, one bar a month, redrawn every day." src="./assets/activity-light.svg" width="100%"></a>
+</picture>
 
 ```
 $ git status
 On branch main
 Changes not staged for commit:
-  modified:   the web, one editor at a time
+  modified:   the web, one product at a time
+
+$ git commit -m "be the best version of yourself"
 ```
+
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-badges-dark.svg"><a name="heading-badges"><img alt="$ ls ./badges" src="./assets/heading-badges-light.svg" height="58"></a></picture></h3>
+
+<p align="center">
+  <a href="https://mcprush.com/to/matra-mcp?ref=badge"><img src="https://mcprush.com/badge/matra-mcp/card.svg" alt="Matra MCP server on mcprush" width="380"></a>
+  <a href="https://www.npmjs.com/package/@matrajs/core"><img alt="@matrajs/core on npm" src="./assets/card-matra.svg" width="380"></a>
+  <br>
+  <a href="https://www.npmjs.com/package/notionuxt"><img alt="notionuxt on npm" src="./assets/card-notionuxt.svg" width="380"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=NahimHossainShohan.shohantheme"><img alt="Shohan Theme on the VS Code Marketplace" src="./assets/card-theme.svg" width="380"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@matrajs/core"><img alt="@matrajs/core on npm" src="https://img.shields.io/npm/v/@matrajs/core?label=%40matrajs%2Fcore&color=3aad52"></a>
+  <a href="https://www.npmjs.com/package/@matrajs/mcp"><img alt="@matrajs/mcp on npm" src="https://img.shields.io/npm/v/@matrajs/mcp?label=%40matrajs%2Fmcp&color=3aad52"></a>
+  <a href="https://github.com/amrelaco/matra#licence"><img alt="Licence MIT" src="https://img.shields.io/npm/l/@matrajs/core?label=licence&color=3aad52"></a>
+  <a href="https://github.com/amrelaco/matra"><img alt="amrelaco/matra on GitHub" src="https://img.shields.io/badge/github-amrelaco%2Fmatra-181717?logo=github"></a>
+  <br>
+  <a href="https://www.npmjs.com/package/notionuxt"><img alt="notionuxt on npm" src="https://img.shields.io/npm/v/notionuxt?label=notionuxt&color=3aad52"></a>
+  <a href="https://www.npmjs.com/package/notionuxt"><img alt="notionuxt downloads a year" src="https://img.shields.io/npm/dy/notionuxt?label=downloads&color=3aad52"></a>
+  <a href="https://www.npmjs.com/package/create-3np-stack"><img alt="create-3np-stack on npm" src="https://img.shields.io/npm/v/create-3np-stack?label=create-3np-stack&color=3aad52"></a>
+  <br>
+  <a href="https://marketplace.visualstudio.com/items?itemName=NahimHossainShohan.shohantheme"><img alt="Shohan Theme on the VS Code Marketplace" src="https://img.shields.io/badge/VS_Code_Marketplace-Shohan_Theme-3aad52?logo=visualstudiocode&logoColor=white"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=NahimHossainShohan.shohantheme"><img alt="Shohan Theme installs" src="https://vsmarketplacebadges.dev/installs-short/NahimHossainShohan.shohantheme.svg"></a>
+  <a href="https://socket.dev/npm/package/@matrajs/core"><img alt="Socket supply-chain score for @matrajs/core" src="https://socket.dev/api/badge/npm/package/@matrajs/core"></a>
+</p>
